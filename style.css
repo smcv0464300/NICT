@@ -194,7 +194,7 @@ body {
         }
             .post-cover {
                 position: relative;
-                background: url('/images/last-post.jpg') center;
+                background: url('last-post.jpg') center;
                 background-size: cover;
                 border-radius: 5px;
             }
